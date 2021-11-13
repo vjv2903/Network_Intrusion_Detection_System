@@ -1,4 +1,4 @@
-# Traffic Flow Classifier
+# Network Intrusion Detection System
 
 We built a traffic flow classifier and a monitoring app which analyses all the flows passed through a switch and flags the one which seem to be an anomaly.
 
@@ -71,7 +71,3 @@ Trained model would be saved as `trained_model.h5`
 	npm install
 	npm start
 ```
-
-## Authors
-
-Built by Dhruv Arya (2018101003), Vishal Verma (2018101072) and Shivansh Anand (2018101086)
